@@ -1,1 +1,1 @@
-download app: Healthcareapp1
+download app: scan the QR 
